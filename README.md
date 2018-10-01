@@ -19,4 +19,4 @@ VM Arguments: -Dcoherence.localhost=127.0.0.1 -Djava.net.preferIPv4Stack=true
 > the data :wink: :astonished:
 
 The [presentation](Cloud%20Ready%20Distributed%20Lambdas.pdf) is also in this
-GIT repo.
+GIT repo.Test
